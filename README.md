@@ -1,10 +1,20 @@
-# Flight-Price-Predict-Deployment-Heroku
+#  CUSTOMER LIFE TIME VALUE PREDICTION
+<br>
 
-In this data science machine learning project tutorial, we are going to build an end to end machine learning project and then deploy it via Heroku.
+Heroku App Link  : https://flight-price-pred-kushagra.herokuapp.com/predict
 
-Test App here: https://tdsapp.herokuapp.com/
+## Relevant ScreenShots
 
-Join Telegram Group: t.me/totaldatascience
+![Screenshot (460)](https://user-images.githubusercontent.com/43815121/137632756-fbe41dfc-2630-458d-bc36-d07c92d43168.png)
+
+
+# Taking Input
+
+![Screenshot (461)](https://user-images.githubusercontent.com/43815121/137632793-85b8e468-baf8-47dc-9435-e3230fed2665.png)
+
+# Output
+
+![Screenshot (462)](https://user-images.githubusercontent.com/43815121/137632812-53c8ce83-1e38-4084-8574-e458c57ebfdc.png)
 
 STEPS:
 
